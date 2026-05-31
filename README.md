@@ -1,4 +1,4 @@
-# DeadZone - Nvidia Spark Hack 26'
+# DeadZone - Nvidia Spark Hack 26' 🚀 
 
 Maps Toronto's temporal public-service accessibility gaps after 9 PM.
 Ingests TTC GTFS, 311 demand signals, and service location data to produce
