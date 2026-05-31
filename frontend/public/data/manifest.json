@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-05-30T23:25:43Z",
+  "files": {
+    "grid_scores.geojson": {
+      "size_kb": 26798.3
+    },
+    "cell_timeseries.json": {
+      "size_kb": 2501.5
+    },
+    "top_dead_zones.json": {
+      "size_kb": 26.7
+    },
+    "service_locations.json": {
+      "size_kb": 30.6
+    },
+    "stops.json": {
+      "size_kb": 9.9
+    },
+    "grid.geojson": {
+      "size_kb": 612.7
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python pipeline/score_accessibility.py --cache data_cache --out data_cache --demo)",
+      "Bash(pip install *)",
+      "Bash(python scripts/generate_seed.py)",
+      "Bash(npm install *)",
+      "Bash(python -c ' *)",
+      "Bash(npm run *)",
+      "Bash(rm -rf Nemotron)",
+      "Bash(git clone *)",
+      "Bash(git config *)",
+      "Read(//Users/prithvishah/**)",
+      "Bash(python -c \"from api.main import app, _active_backend; print\\('API OK'\\); print\\('Backend:', _active_backend\\(\\)\\)\")"
+    ]
+  }
+}

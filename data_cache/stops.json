@@ -1,0 +1,560 @@
+[
+  {
+    "stop_id": "S001",
+    "stop_name": "Union Station",
+    "lat": 43.6453,
+    "lng": -79.3806
+  },
+  {
+    "stop_id": "S002",
+    "stop_name": "King Station",
+    "lat": 43.649,
+    "lng": -79.3776
+  },
+  {
+    "stop_id": "S003",
+    "stop_name": "Queen Station",
+    "lat": 43.6524,
+    "lng": -79.3793
+  },
+  {
+    "stop_id": "S004",
+    "stop_name": "Dundas Station",
+    "lat": 43.6557,
+    "lng": -79.3815
+  },
+  {
+    "stop_id": "S005",
+    "stop_name": "College Station",
+    "lat": 43.6596,
+    "lng": -79.3852
+  },
+  {
+    "stop_id": "S006",
+    "stop_name": "Wellesley Station",
+    "lat": 43.6651,
+    "lng": -79.3875
+  },
+  {
+    "stop_id": "S007",
+    "stop_name": "Bloor-Yonge Station",
+    "lat": 43.671,
+    "lng": -79.3857
+  },
+  {
+    "stop_id": "S008",
+    "stop_name": "Rosedale Station",
+    "lat": 43.6773,
+    "lng": -79.3857
+  },
+  {
+    "stop_id": "S009",
+    "stop_name": "Summerhill Station",
+    "lat": 43.6859,
+    "lng": -79.3889
+  },
+  {
+    "stop_id": "S010",
+    "stop_name": "St. Clair Station",
+    "lat": 43.6921,
+    "lng": -79.3917
+  },
+  {
+    "stop_id": "S011",
+    "stop_name": "Davisville Station",
+    "lat": 43.6978,
+    "lng": -79.3942
+  },
+  {
+    "stop_id": "S012",
+    "stop_name": "Eglinton Station",
+    "lat": 43.705,
+    "lng": -79.3984
+  },
+  {
+    "stop_id": "S013",
+    "stop_name": "Lawrence Station",
+    "lat": 43.7233,
+    "lng": -79.4006
+  },
+  {
+    "stop_id": "S014",
+    "stop_name": "York Mills Station",
+    "lat": 43.7453,
+    "lng": -79.4013
+  },
+  {
+    "stop_id": "S015",
+    "stop_name": "Sheppard-Yonge Station",
+    "lat": 43.7614,
+    "lng": -79.4107
+  },
+  {
+    "stop_id": "S016",
+    "stop_name": "North York Centre Stn",
+    "lat": 43.7686,
+    "lng": -79.4107
+  },
+  {
+    "stop_id": "S017",
+    "stop_name": "Finch Station",
+    "lat": 43.78,
+    "lng": -79.4154
+  },
+  {
+    "stop_id": "S018",
+    "stop_name": "St. George Station",
+    "lat": 43.6681,
+    "lng": -79.3993
+  },
+  {
+    "stop_id": "S019",
+    "stop_name": "Museum Station",
+    "lat": 43.6676,
+    "lng": -79.3938
+  },
+  {
+    "stop_id": "S020",
+    "stop_name": "Bay Station",
+    "lat": 43.67,
+    "lng": -79.3892
+  },
+  {
+    "stop_id": "S021",
+    "stop_name": "St. Patrick Station",
+    "lat": 43.6538,
+    "lng": -79.3878
+  },
+  {
+    "stop_id": "S022",
+    "stop_name": "Osgoode Station",
+    "lat": 43.6499,
+    "lng": -79.3877
+  },
+  {
+    "stop_id": "S023",
+    "stop_name": "St. Andrew Station",
+    "lat": 43.6466,
+    "lng": -79.386
+  },
+  {
+    "stop_id": "S024",
+    "stop_name": "Spadina Station",
+    "lat": 43.6674,
+    "lng": -79.4034
+  },
+  {
+    "stop_id": "S025",
+    "stop_name": "Dupont Station",
+    "lat": 43.6755,
+    "lng": -79.4049
+  },
+  {
+    "stop_id": "S026",
+    "stop_name": "St. Clair West Station",
+    "lat": 43.6864,
+    "lng": -79.4158
+  },
+  {
+    "stop_id": "S027",
+    "stop_name": "Eglinton West Station",
+    "lat": 43.7001,
+    "lng": -79.4304
+  },
+  {
+    "stop_id": "S028",
+    "stop_name": "Allen Station",
+    "lat": 43.7155,
+    "lng": -79.4466
+  },
+  {
+    "stop_id": "S029",
+    "stop_name": "Yorkdale Station",
+    "lat": 43.724,
+    "lng": -79.4522
+  },
+  {
+    "stop_id": "S030",
+    "stop_name": "Lawrence West Station",
+    "lat": 43.7219,
+    "lng": -79.4587
+  },
+  {
+    "stop_id": "S031",
+    "stop_name": "Glencairn Station",
+    "lat": 43.727,
+    "lng": -79.4461
+  },
+  {
+    "stop_id": "S032",
+    "stop_name": "Wilson Station",
+    "lat": 43.7329,
+    "lng": -79.4641
+  },
+  {
+    "stop_id": "S033",
+    "stop_name": "Downsview Park Station",
+    "lat": 43.7534,
+    "lng": -79.4773
+  },
+  {
+    "stop_id": "S034",
+    "stop_name": "Finch West Station",
+    "lat": 43.7561,
+    "lng": -79.5855
+  },
+  {
+    "stop_id": "S035",
+    "stop_name": "York University Station",
+    "lat": 43.7729,
+    "lng": -79.5019
+  },
+  {
+    "stop_id": "S036",
+    "stop_name": "Kipling Station",
+    "lat": 43.6365,
+    "lng": -79.5358
+  },
+  {
+    "stop_id": "S037",
+    "stop_name": "Islington Station",
+    "lat": 43.6468,
+    "lng": -79.5232
+  },
+  {
+    "stop_id": "S038",
+    "stop_name": "Royal York Station",
+    "lat": 43.6475,
+    "lng": -79.5111
+  },
+  {
+    "stop_id": "S039",
+    "stop_name": "Old Mill Station",
+    "lat": 43.6483,
+    "lng": -79.4965
+  },
+  {
+    "stop_id": "S040",
+    "stop_name": "Jane Station",
+    "lat": 43.6483,
+    "lng": -79.4823
+  },
+  {
+    "stop_id": "S041",
+    "stop_name": "Runnymede Station",
+    "lat": 43.6508,
+    "lng": -79.4706
+  },
+  {
+    "stop_id": "S042",
+    "stop_name": "High Park Station",
+    "lat": 43.6543,
+    "lng": -79.4639
+  },
+  {
+    "stop_id": "S043",
+    "stop_name": "Keele Station",
+    "lat": 43.6555,
+    "lng": -79.4553
+  },
+  {
+    "stop_id": "S044",
+    "stop_name": "Dundas West Station",
+    "lat": 43.6558,
+    "lng": -79.4478
+  },
+  {
+    "stop_id": "S045",
+    "stop_name": "Lansdowne Station",
+    "lat": 43.6572,
+    "lng": -79.4398
+  },
+  {
+    "stop_id": "S046",
+    "stop_name": "Dufferin Station",
+    "lat": 43.6585,
+    "lng": -79.4323
+  },
+  {
+    "stop_id": "S047",
+    "stop_name": "Ossington Station",
+    "lat": 43.6613,
+    "lng": -79.4229
+  },
+  {
+    "stop_id": "S048",
+    "stop_name": "Christie Station",
+    "lat": 43.6643,
+    "lng": -79.4156
+  },
+  {
+    "stop_id": "S049",
+    "stop_name": "Bathurst Station",
+    "lat": 43.6664,
+    "lng": -79.4111
+  },
+  {
+    "stop_id": "S050",
+    "stop_name": "Sherbourne Station",
+    "lat": 43.6715,
+    "lng": -79.3748
+  },
+  {
+    "stop_id": "S051",
+    "stop_name": "Castle Frank Station",
+    "lat": 43.6749,
+    "lng": -79.364
+  },
+  {
+    "stop_id": "S052",
+    "stop_name": "Broadview Station",
+    "lat": 43.6752,
+    "lng": -79.3565
+  },
+  {
+    "stop_id": "S053",
+    "stop_name": "Chester Station",
+    "lat": 43.6782,
+    "lng": -79.3491
+  },
+  {
+    "stop_id": "S054",
+    "stop_name": "Pape Station",
+    "lat": 43.6794,
+    "lng": -79.3434
+  },
+  {
+    "stop_id": "S055",
+    "stop_name": "Donlands Station",
+    "lat": 43.6812,
+    "lng": -79.3351
+  },
+  {
+    "stop_id": "S056",
+    "stop_name": "Greenwood Station",
+    "lat": 43.6833,
+    "lng": -79.3289
+  },
+  {
+    "stop_id": "S057",
+    "stop_name": "Coxwell Station",
+    "lat": 43.6847,
+    "lng": -79.322
+  },
+  {
+    "stop_id": "S058",
+    "stop_name": "Woodbine Station",
+    "lat": 43.6866,
+    "lng": -79.3148
+  },
+  {
+    "stop_id": "S059",
+    "stop_name": "Main Street Station",
+    "lat": 43.6893,
+    "lng": -79.3036
+  },
+  {
+    "stop_id": "S060",
+    "stop_name": "Victoria Park Station",
+    "lat": 43.691,
+    "lng": -79.2934
+  },
+  {
+    "stop_id": "S061",
+    "stop_name": "Warden Station",
+    "lat": 43.6921,
+    "lng": -79.2798
+  },
+  {
+    "stop_id": "S062",
+    "stop_name": "Kennedy Station",
+    "lat": 43.6921,
+    "lng": -79.2642
+  },
+  {
+    "stop_id": "S063",
+    "stop_name": "Bayview Station",
+    "lat": 43.7655,
+    "lng": -79.3877
+  },
+  {
+    "stop_id": "S064",
+    "stop_name": "Bessarion Station",
+    "lat": 43.7693,
+    "lng": -79.3745
+  },
+  {
+    "stop_id": "S065",
+    "stop_name": "Leslie Station",
+    "lat": 43.773,
+    "lng": -79.3594
+  },
+  {
+    "stop_id": "S066",
+    "stop_name": "Don Mills Station",
+    "lat": 43.7739,
+    "lng": -79.3416
+  },
+  {
+    "stop_id": "S067",
+    "stop_name": "Lawrence East Station",
+    "lat": 43.7231,
+    "lng": -79.2661
+  },
+  {
+    "stop_id": "S068",
+    "stop_name": "Ellesmere Station",
+    "lat": 43.7714,
+    "lng": -79.2636
+  },
+  {
+    "stop_id": "S069",
+    "stop_name": "Scarborough Centre Stn",
+    "lat": 43.7764,
+    "lng": -79.2568
+  },
+  {
+    "stop_id": "T001",
+    "stop_name": "Queen & Spadina",
+    "lat": 43.6473,
+    "lng": -79.4
+  },
+  {
+    "stop_id": "T002",
+    "stop_name": "King & Bathurst",
+    "lat": 43.6441,
+    "lng": -79.4094
+  },
+  {
+    "stop_id": "T003",
+    "stop_name": "Queen & Broadview",
+    "lat": 43.6626,
+    "lng": -79.3526
+  },
+  {
+    "stop_id": "T004",
+    "stop_name": "Dundas & Ossington",
+    "lat": 43.653,
+    "lng": -79.4264
+  },
+  {
+    "stop_id": "T005",
+    "stop_name": "King & Dufferin",
+    "lat": 43.6396,
+    "lng": -79.4323
+  },
+  {
+    "stop_id": "B001",
+    "stop_name": "Finch & Jane",
+    "lat": 43.7511,
+    "lng": -79.5
+  },
+  {
+    "stop_id": "B002",
+    "stop_name": "Finch & Dufferin",
+    "lat": 43.7549,
+    "lng": -79.4698
+  },
+  {
+    "stop_id": "B003",
+    "stop_name": "Wilson & Allen Rd",
+    "lat": 43.7264,
+    "lng": -79.466
+  },
+  {
+    "stop_id": "B004",
+    "stop_name": "Sheppard & Weston Rd",
+    "lat": 43.741,
+    "lng": -79.5205
+  },
+  {
+    "stop_id": "B005",
+    "stop_name": "Jane & Sheppard",
+    "lat": 43.7549,
+    "lng": -79.5037
+  },
+  {
+    "stop_id": "B006",
+    "stop_name": "Rexdale & Kipling",
+    "lat": 43.7256,
+    "lng": -79.5597
+  },
+  {
+    "stop_id": "B007",
+    "stop_name": "Albion & Islington",
+    "lat": 43.744,
+    "lng": -79.552
+  },
+  {
+    "stop_id": "B008",
+    "stop_name": "Steeles & Jane",
+    "lat": 43.7731,
+    "lng": -79.5017
+  },
+  {
+    "stop_id": "B009",
+    "stop_name": "Steeles & Yonge",
+    "lat": 43.796,
+    "lng": -79.4184
+  },
+  {
+    "stop_id": "B010",
+    "stop_name": "Eglinton & Kennedy",
+    "lat": 43.7168,
+    "lng": -79.2789
+  },
+  {
+    "stop_id": "B011",
+    "stop_name": "Sheppard & Markham Rd",
+    "lat": 43.7795,
+    "lng": -79.2487
+  },
+  {
+    "stop_id": "B012",
+    "stop_name": "Lawrence & Warden",
+    "lat": 43.723,
+    "lng": -79.274
+  },
+  {
+    "stop_id": "B013",
+    "stop_name": "Morningside & Sheppard",
+    "lat": 43.7936,
+    "lng": -79.2109
+  },
+  {
+    "stop_id": "B014",
+    "stop_name": "Ellesmere & Morningside",
+    "lat": 43.7768,
+    "lng": -79.2102
+  },
+  {
+    "stop_id": "B015",
+    "stop_name": "Weston & Lawrence",
+    "lat": 43.711,
+    "lng": -79.5198
+  },
+  {
+    "stop_id": "B016",
+    "stop_name": "Mount Dennis Loop",
+    "lat": 43.6963,
+    "lng": -79.4953
+  },
+  {
+    "stop_id": "B017",
+    "stop_name": "Humber College Loop",
+    "lat": 43.7278,
+    "lng": -79.6077
+  },
+  {
+    "stop_id": "B018",
+    "stop_name": "Eglinton & Islington",
+    "lat": 43.6517,
+    "lng": -79.527
+  },
+  {
+    "stop_id": "B019",
+    "stop_name": "Scarborough GO",
+    "lat": 43.768,
+    "lng": -79.256
+  }
+]
