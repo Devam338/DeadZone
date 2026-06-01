@@ -2,7 +2,7 @@ import { useMemo } from 'react';
 
 const TYPE_ICONS = {
   hospital:         '🏥', 
-  clinic:           '🩺',
+  clinic:           '🩺', 
   pharmacy:         '💊',
   mental_health:    '🧠',
   shelter:          '🏠',
