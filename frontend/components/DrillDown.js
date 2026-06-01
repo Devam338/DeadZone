@@ -1,11 +1,11 @@
 import { useMemo } from 'react';
 
 const TYPE_ICONS = {
-  hospital:         '🏥', 
-  clinic:           '🩺', 
-  pharmacy:         '💊', 
-  mental_health:    '🧠', 
-  shelter:          '🏠', 
+  hospital:         '🏥',
+  clinic:           '🩺',
+  pharmacy:         '💊',
+  mental_health:    '🧠',
+  shelter:          '🏠',
   food_bank:        '🍎',
   community_centre: '🤝',
 };
