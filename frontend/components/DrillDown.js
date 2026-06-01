@@ -5,7 +5,7 @@ const TYPE_ICONS = {
   clinic:           '🩺', 
   pharmacy:         '💊',
   mental_health:    '🧠',
-  shelter:          '🏠',
+  shelter:          '🏠', 
   food_bank:        '🍎',
   community_centre: '🤝',
 };
